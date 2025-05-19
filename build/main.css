@@ -1,8 +1,8 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  font-family: Roboto, sans-serif;
+  font-family: sans-serif;
 }
 
 section {
@@ -97,6 +97,4 @@ header .container {
   text-decoration: none;
 }
 
-/*# sourceMappingURL=styles.css.map */
-
-
+/*# sourceMappingURL=main.css.map */
